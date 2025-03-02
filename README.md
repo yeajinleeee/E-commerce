@@ -65,12 +65,12 @@
 <br/>
 
 ## Project Summary
-- 사용자에게 기업에 대한 정보와 최근 주가 정보를 제공하여 주식 투자에 도움을 주는 챗봇
+- 고객 세분화 분석 
 
 **stock_chatbot**
-- 팀명 : SOL
-- 주제 : 사용자에게 기업에 대한 최신 정보와 최근 주가 정보를 제공하고 기업에 대한 자세한 정보를 QA해주는 챗봇 구현
-- 목적/효과 : 주식을 투자하고싶으나 기업에 대한 자세한 정보를 찾기 귀찮은 사용자에게 최신 정보를 제공함
+- 팀명 : 5조
+- 주제 : 
+- 목적/효과 : 
 - 기술스택<div align=left> 
 	`크롤링` : 
 	<img src="https://img.shields.io/badge/BeautifulSoup-150458?style=for-the-badge&logo=BeautifulSoup&logoColor=white">
