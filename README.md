@@ -72,13 +72,8 @@
 - 주제 : 
 - 목적/효과 : 
 - 기술스택<div align=left> 
-	`크롤링` : 
-	<img src="https://img.shields.io/badge/BeautifulSoup-150458?style=for-the-badge&logo=BeautifulSoup&logoColor=white">
-	<img src="https://img.shields.io/badge/yfinance-013243?style=for-the-badge&logo=yfinance&logoColor=white">
- 	<img src="https://img.shields.io/badge/FinanceDataReader-0080ff?style=for-the-badge&logo=FinanceDataReader&logoColor=white">
-	    <br>
 	`시각화` : 
-	<img src="https://img.shields.io/badge/streamlit-006c66?style=for-the-badge&logo=streamlit&logoColor=white">
+	<img src="https://img.shields.io/badge/tabkeau-006c66?style=for-the-badge&logo=tabkeau&logoColor=white">
 	<img src="https://img.shields.io/badge/plotly-0080ff?style=for-the-badge&logo=plotly&logoColor=white">
 	    <br>
 	`RAG 구성요소` : 
